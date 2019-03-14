@@ -22,22 +22,33 @@ class ViewController: UIViewController {
     
     private lazy var line:LineView = LineView(circleView1: self.circle1, circleView2: self.circle2)
     
-
     override func viewDidLoad() {
         super.viewDidLoad()
         self.setView()
+        self.setRecognizer()
     }
 
     private func setView(){
         self.view.backgroundColor = .orange
+        self.view.layer.insertSublayer(line, at: 0)
         self.view.addSubview(self.circle1)
         self.view.addSubview(self.circle2)
-        self.view.layer.insertSublayer(line, at: 0)
     }
     
     public func circleMoved(){
         self.line.createPath()
         self.line.drawLine()
+    }
+    
+    private func setRecognizer(){
+        let longpress = UILongPressGestureRecognizer(target: self, action: #selector(longPressHandler))
+        self.view.addGestureRecognizer(longpress)
+    }
+    
+    @objc func longPressHandler(recognizer:UILongPressGestureRecognizer){
+        if recognizer.state == .began, self.line.path!.contains(recognizer.location(in: self.view)){
+            print("Line tapped")
+        }
     }
 
 }
