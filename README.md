@@ -45,4 +45,6 @@ We need to calculate the four points (blue and green).
 ## Calculate points
 It is easy to calculate these four points. Let's calculate the pointC in fig.2.
 
+To calculate pointC, we need calculate the value of "delta". So we solve this...
 
+![fig3](https://user-images.githubusercontent.com/44053042/54433363-03ab2300-476f-11e9-8300-cae2408dba0b.png)
