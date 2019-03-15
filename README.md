@@ -24,7 +24,7 @@ You can imagine like fig.1
 
 To extend the tappable area, I propose the idea that draw the long and thin rectangle instead.
 
-By use this idea, you can do like this...
+By using this idea, you can do like this...
 
 <img src="https://user-images.githubusercontent.com/44053042/54438998-44109e00-477b-11e9-9827-328aa251c406.gif" width="200"> 
 
