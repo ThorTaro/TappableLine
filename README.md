@@ -58,3 +58,8 @@ This y = g(x) is the function that
 So we calculate the function g(x) like this...
 
 ![fig4](https://user-images.githubusercontent.com/44053042/54434405-88973c00-4771-11e9-846a-ee2a707e9111.png)
+
+
+Now, we know the value of "delta" and the function g(x), we can calculate the pointC and pointD.
+
+And we can calculate the pointE and pointF in the same way.
