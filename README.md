@@ -1,4 +1,4 @@
-# Idea: How to enable recognize tap line easily (extension recognize tap area)
+# Swift: The idea how to exend the area that recognize the line tapped
 
 ## Overview
 If you draw the line from pointA to pointB simply by using UIBezierPath in Swift, you maybe use
@@ -23,3 +23,7 @@ You can imagine like this...
 
 
 To extend the tappable area, I propose the idea that draw the long and thin rectangle instead.
+
+
+## Idea and what we need to calculate
+To realize this idea, we need to draw the long, thin and slanted rectangle. And we need 4 points in addition to "pointA" and "pointB".
