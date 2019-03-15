@@ -16,4 +16,9 @@ However, if you want to rocognize tap this line, it is hard to do it.
 This is because that the width of "the true line from pointA to pointB" will not be changed even though you change the `path.linewidth`.
 
 
-You can imagine like this fig...
+You can imagine like this fig
+
+![fig1](https://user-images.githubusercontent.com/44053042/54429550-2edc4500-4764-11e9-9982-00abb4f69f83.png)
+
+
+To extend the tappable area, I propose the idea that draw the long and thin rectangle 
