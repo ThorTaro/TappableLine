@@ -64,3 +64,11 @@ Now, we know the value of "delta" and the function g(x), we can calculate the po
 
 
 Unfortunately, we cannot draw the rectangle by using this idea in all situations. When the gradient of f(x) is zero, we cannot calculate the function g(x). In this situation, we can draw the rectangle by using this... 
+
+![fig5](https://user-images.githubusercontent.com/44053042/54435545-170cbd00-4774-11e9-89af-2a460ff7c579.png)
+
+and
+
+![fig6](https://user-images.githubusercontent.com/44053042/54435652-50452d00-4774-11e9-8581-86d80067d495.png)
+
+
