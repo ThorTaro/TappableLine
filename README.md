@@ -52,5 +52,5 @@ To calculate pointC, we need calculate the value of "delta". So we solve this...
 
 This y = g(x) is the function that 
 
-* a
-* b
+* through the pointA
+* f(x) is orthogonal to g(x)
