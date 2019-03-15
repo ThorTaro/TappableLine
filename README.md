@@ -54,3 +54,7 @@ This y = g(x) is the function that
 
 * through the pointA
 * f(x) is orthogonal to g(x)
+
+So we calculate the function g(x) like this...
+
+![fig4](https://user-images.githubusercontent.com/44053042/54434405-88973c00-4771-11e9-846a-ee2a707e9111.png)
