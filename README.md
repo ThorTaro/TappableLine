@@ -25,7 +25,7 @@ You can imagine like this...
 To extend the tappable area, I propose the idea that draw the long and thin rectangle instead.
 
 
-## Idea and what we need to calculate
+## Idea and what we need
 To realize this idea, we need to draw the long, thin and slanted rectangle. And we need 4 points in addition to "pointA" and "pointB".
 
 
@@ -35,4 +35,5 @@ That rectangle and points what we need to calclurate for is like this...
 ![fig2](https://user-images.githubusercontent.com/44053042/54431213-29352e00-4769-11e9-9f6d-7f1e4037a9d5.png)
 
 
-The two red points are "pointA" and "pointB" (start and end of this line). The black rectangle is the "line" that we want to draw instead of line. The two blue points and the two green points are the corner points of this rectangle.
+The two red points are "pointA" and "pointB" (start and end of this line). The black rectangle is the "line" that we want to draw instead of line. The two blue points and the two green points are the corner points of this rectangle. We need the four points (blue and green).
+The two red points are "pointA" and "pointB" (start and end of this line). The black rectangle is the "line" that we want to draw instead of line. The two blue points and the two green points are the corner points of this rectangle. We need the four points (blue and green) 
