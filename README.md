@@ -16,7 +16,7 @@ However, if you want to rocognize tap this line, it is hard to do it.
 This is because that the width of "the true line from pointA to pointB" will not be changed even though you change `path.linewidth`.
 
 
-You can imagine like this...
+You can imagine like fig.1
 
 
 ![fig1](https://user-images.githubusercontent.com/44053042/54431282-597ccc80-4769-11e9-8790-cb9351e751d4.png)
@@ -29,7 +29,7 @@ To extend the tappable area, I propose the idea that draw the long and thin rect
 To realize this idea, we need to draw the long, thin and slanted rectangle. And we need 4 points in addition to "pointA" and "pointB".
 
 
-That rectangle and points what we need to calclurate for is like this...
+That rectangle and points what we need to calclurate for is like fig.2...
 
 
 ![fig2](https://user-images.githubusercontent.com/44053042/54431213-29352e00-4769-11e9-9f6d-7f1e4037a9d5.png)
@@ -43,4 +43,4 @@ We need to calculate the four points (blue and green).
 
 
 ## Calculate points
-
+It is easy to calculate these four points. 
