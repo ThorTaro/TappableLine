@@ -19,14 +19,14 @@ This is because that the width of "the true line from pointA to pointB" will not
 You can imagine like fig.1
 
 
-![fig1](https://user-images.githubusercontent.com/44053042/54438922-14fa2c80-477b-11e9-860a-99dcb3d9d47f.png)
+![fig1 22 55 33](https://user-images.githubusercontent.com/44053042/54438969-30653780-477b-11e9-8d20-1416f1e12270.png)
 
 
 To extend the tappable area, I propose the idea that draw the long and thin rectangle instead.
 
 By use this idea, you can do like this...
 
-
+<img src="https://user-images.githubusercontent.com/44053042/54438998-44109e00-477b-11e9-9827-328aa251c406.gif" width="200"> 
 
 
 ## Idea and what we need
