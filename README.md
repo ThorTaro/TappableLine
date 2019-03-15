@@ -36,4 +36,3 @@ That rectangle and points what we need to calclurate for is like this...
 
 
 The two red points are "pointA" and "pointB" (start and end of this line). The black rectangle is the "line" that we want to draw instead of line. The two blue points and the two green points are the corner points of this rectangle. We need the four points (blue and green).
-The two red points are "pointA" and "pointB" (start and end of this line). The black rectangle is the "line" that we want to draw instead of line. The two blue points and the two green points are the corner points of this rectangle. We need the four points (blue and green) 
