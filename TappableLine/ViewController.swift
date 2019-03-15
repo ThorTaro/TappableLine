@@ -48,6 +48,15 @@ class ViewController: UIViewController {
     @objc func longPressHandler(recognizer:UILongPressGestureRecognizer){
         if recognizer.state == .began, self.line.path!.contains(recognizer.location(in: self.view)){
             print("Line tapped")
+            self.toggleColor()
+        }
+    }
+    
+    private func toggleColor(){
+        if self.view.backgroundColor == .orange{
+            self.view.backgroundColor = .yellow
+        }else{
+            self.view.backgroundColor = .orange
         }
     }
 
