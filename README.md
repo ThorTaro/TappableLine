@@ -61,3 +61,6 @@ So we calculate the function g(x) like this...
 
 
 Now, we know the value of "delta" and the function g(x), we can calculate the pointC and pointD. And we can calculate the pointE and pointF in the same way.
+
+
+Unfortunately, we cannot draw the rectangle by using this idea in all situations. 
