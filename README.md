@@ -76,7 +76,8 @@ and
 ![fig6](https://user-images.githubusercontent.com/44053042/54435652-50452d00-4774-11e9-8581-86d80067d495.png)
 
 
-## Lastly
+## Lastly  
+This code is swift4 and I test this project on XCode(10.2).
 The author is ThorTaro.
 
 I would appreciate if you leave comments or advice.
